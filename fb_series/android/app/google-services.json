@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948310338522",
+    "project_id": "fir-series-c7c3d",
+    "storage_bucket": "fir-series-c7c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948310338522:android:509876cb459dadc9c2eee3",
+        "android_client_info": {
+          "package_name": "com.example.fb_series"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBztEQHKWVu7T62lqL6nX4m_2xoSnyOrL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
